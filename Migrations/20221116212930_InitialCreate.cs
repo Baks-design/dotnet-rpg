@@ -2,7 +2,7 @@
 
 #nullable disable
 
-namespace dotnet_rpg.Migrations
+namespace dotnetrpg.Migrations
 {
     /// <inheritdoc />
     public partial class InitialCreate : Migration
